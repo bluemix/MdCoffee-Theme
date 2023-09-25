@@ -1,5 +1,6 @@
 ## IntellijIdea/PyCharm Theme
 
+I've been using this custom theme for a couple of years (maybe since 2018).
 
 ### Light
 
